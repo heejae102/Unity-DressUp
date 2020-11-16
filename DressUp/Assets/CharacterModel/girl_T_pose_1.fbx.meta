@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: c1282e72e7c8d4599969243e5754f9b7
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: downBody_basic
+    100002: downBody_skirt_long
+    100004: downBody_skirt_mid
+    100006: downBody_skirt_short
+    100008: downBody_training
+    100010: girl_basic
+    100012: //RootNode
+    100014: hair2
+    100016: hair3
+    100018: hair4
+    100020: hair5
+    100022: hair6
+    100024: hair_basic
+    100026: hairGroup
+    100028: head_basic
+    100030: hoodHair1
+    100032: hoodHair2
+    100034: hoodHair3
+    100036: hoodHairGroup
+    100038: joint11
+    100040: joint17
+    100042: joint17 1
+    100044: joint20
+    100046: joint20 1
+    100048: joint5
+    100050: joint5 1
+    100052: joint_head
+    100054: joint_L_arm
+    100056: joint_L_finger1
+    100058: joint_L_finger2
+    100060: joint_L_foot
+    100062: joint_L_foreArm
+    100064: joint_L_hand
+    100066: joint_L_leg
+    100068: joint_L_shoulder
+    100070: joint_L_thumb1
+    100072: joint_L_thumb2
+    100074: joint_L_toe
+    100076: joint_L_upLeg
+    100078: joint_neck
+    100080: joint_R_arm
+    100082: joint_R_finger1
+    100084: joint_R_finger2
+    100086: joint_R_foot
+    100088: joint_R_foreArm
+    100090: joint_R_hand
+    100092: joint_R_leg
+    100094: joint_R_shoulder
+    100096: joint_R_thumb1
+    100098: joint_R_thumb2
+    100100: joint_R_toe
+    100102: joint_R_upReg
+    100104: joint_root
+    100106: joint_spine1
+    100108: joint_spine2
+    100110: pants_hiphop
+    100112: shoes_basic
+    100114: skirtGroup
+    100116: trainingGroup
+    100118: upBody_baseball1
+    100120: upBody_basic
+    100122: upBody_blouse
+    100124: upBody_cardigan1
+    100126: upBody_sweater1
+    100128: upBody_training
+    100130: upbodyGroup
+    100132: downBody_hiphop
+    100134: downBodyGroup
+    100136: hair1
+    400000: downBody_basic
+    400002: downBody_skirt_long
+    400004: downBody_skirt_mid
+    400006: downBody_skirt_short
+    400008: downBody_training
+    400010: girl_basic
+    400012: //RootNode
+    400014: hair2
+    400016: hair3
+    400018: hair4
+    400020: hair5
+    400022: hair6
+    400024: hair_basic
+    400026: hairGroup
+    400028: head_basic
+    400030: hoodHair1
+    400032: hoodHair2
+    400034: hoodHair3
+    400036: hoodHairGroup
+    400038: joint11
+    400040: joint17
+    400042: joint17 1
+    400044: joint20
+    400046: joint20 1
+    400048: joint5
+    400050: joint5 1
+    400052: joint_head
+    400054: joint_L_arm
+    400056: joint_L_finger1
+    400058: joint_L_finger2
+    400060: joint_L_foot
+    400062: joint_L_foreArm
+    400064: joint_L_hand
+    400066: joint_L_leg
+    400068: joint_L_shoulder
+    400070: joint_L_thumb1
+    400072: joint_L_thumb2
+    400074: joint_L_toe
+    400076: joint_L_upLeg
+    400078: joint_neck
+    400080: joint_R_arm
+    400082: joint_R_finger1
+    400084: joint_R_finger2
+    400086: joint_R_foot
+    400088: joint_R_foreArm
+    400090: joint_R_hand
+    400092: joint_R_leg
+    400094: joint_R_shoulder
+    400096: joint_R_thumb1
+    400098: joint_R_thumb2
+    400100: joint_R_toe
+    400102: joint_R_upReg
+    400104: joint_root
+    400106: joint_spine1
+    400108: joint_spine2
+    400110: pants_hiphop
+    400112: shoes_basic
+    400114: skirtGroup
+    400116: trainingGroup
+    400118: upBody_baseball1
+    400120: upBody_basic
+    400122: upBody_blouse
+    400124: upBody_cardigan1
+    400126: upBody_sweater1
+    400128: upBody_training
+    400130: upbodyGroup
+    400132: downBody_hiphop
+    400134: downBodyGroup
+    400136: hair1
+    4300000: hair_basic
+    4300002: downBody_basic
+    4300004: shoes_basic
+    4300006: upBody_basic
+    4300008: head_basic
+    4300010: downBody_skirt_mid
+    4300012: downBody_skirt_long
+    4300014: downBody_skirt_short
+    4300016: pants_hiphop
+    4300018: upBody_training
+    4300020: downBody_training
+    4300022: hoodHair1
+    4300024: hoodHair2
+    4300026: hoodHair3
+    4300028: hair3
+    4300030: hair2
+    4300032: hair4
+    4300034: hair5
+    4300036: hair6
+    4300038: upBody_cardigan1
+    4300040: upBody_baseball1
+    4300042: upBody_sweater1
+    4300044: upBody_blouse
+    4300046: downBody_hiphop
+    4300048: hair1
+    9500000: //RootNode
+    13700000: downBody_basic
+    13700002: downBody_skirt_long
+    13700004: downBody_skirt_mid
+    13700006: downBody_skirt_short
+    13700008: downBody_training
+    13700010: hair2
+    13700012: hair3
+    13700014: hair4
+    13700016: hair5
+    13700018: hair6
+    13700020: hair_basic
+    13700022: head_basic
+    13700024: hoodHair1
+    13700026: hoodHair2
+    13700028: hoodHair3
+    13700030: pants_hiphop
+    13700032: shoes_basic
+    13700034: upBody_baseball1
+    13700036: upBody_basic
+    13700038: upBody_blouse
+    13700040: upBody_cardigan1
+    13700042: upBody_sweater1
+    13700044: upBody_training
+    13700046: downBody_hiphop
+    13700048: hair1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: joint_root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_upLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_upReg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_leg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_leg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_arm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_arm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_foreArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_foreArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint11
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_thumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_thumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint20
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_finger1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_L_finger2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_thumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_thumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint20 1
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_finger1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_R_finger2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: girl_T_pose_1(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: downBodyGroup
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: downBody_basic
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: downBody_hiphop
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: downBody_skirt_long
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: downBody_skirt_mid
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: downBody_skirt_short
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: downBody_training
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: girl_basic
+      position: {x: 0, y: -.403972477, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: head_basic
+      position: {x: -0, y: .403972477, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: shoes_basic
+      position: {x: .00042102125, y: .403972477, z: -.000110276691}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hairGroup
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hoodHair1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hoodHair2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hoodHair3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: upbodyGroup
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: upBody_baseball1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: upBody_basic
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: upBody_blouse
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: upBody_cardigan1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: upBody_sweater1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: upBody_training
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_root
+      position: {x: 0, y: 4.62843418, z: .255915225}
+      rotation: {x: -.491784662, y: .508082509, z: -.491784662, w: .508082509}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_spine1
+      position: {x: -.816623628, y: -4.51028104e-17, z: 1.81326871e-16}
+      rotation: {x: .994363427, y: -.106025673, z: -6.49219983e-18, w: 6.08872032e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_spine2
+      position: {x: -.991878211, y: 1.66533454e-16, z: -2.38509152e-16}
+      rotation: {x: -5.74400372e-17, y: 2.35053678e-17, z: .0751510113, w: .997172177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_neck
+      position: {x: -.656500518, y: 1.11022302e-16, z: -1.74201815e-16}
+      rotation: {x: .983118355, y: -.182971045, z: -4.33702872e-17, w: -7.03555757e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_head
+      position: {x: -.470530987, y: 7.49400542e-16, z: 9.17714538e-17}
+      rotation: {x: .999700963, y: -.0244533196, z: -6.9270615e-18, w: 2.83192231e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint11
+      position: {x: -2.37774539, y: 4.13905021e-15, z: -5.04373021e-16}
+      rotation: {x: -.497193784, y: .50279057, z: .497193784, w: .50279057}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_shoulder
+      position: {x: -.363262951, y: .0134441713, z: .265525252}
+      rotation: {x: -.30614385, y: .533805311, z: .531841278, w: .581784189}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_arm
+      position: {x: -.493944824, y: 1.54043445e-15, z: -4.21337375e-16}
+      rotation: {x: .0152268307, y: .102753222, z: -.145794585, w: .983846486}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_foreArm
+      position: {x: -1.01192582, y: 0, z: -6.52256027e-16}
+      rotation: {x: .00272899424, y: .0549370497, z: .0229650307, w: .998221993}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_hand
+      position: {x: -1.24125254, y: 0, z: 4.99600361e-16}
+      rotation: {x: 0, y: -.0617559142, z: -0, w: .99809128}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_thumb1
+      position: {x: -.289076686, y: -.123450592, z: .344748229}
+      rotation: {x: -.202004537, y: .397883743, z: .181382924, w: .87634635}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_thumb2
+      position: {x: -.275049716, y: -8.8817842e-16, z: -2.77555756e-17}
+      rotation: {x: -5.96046306e-08, y: -.0259059984, z: 1.04308107e-07, w: .999664366}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint20
+      position: {x: -.213962182, y: -8.8817842e-16, z: -1.38777878e-17}
+      rotation: {x: 0, y: -.141421378, z: -0, w: .989949524}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_finger1
+      position: {x: -.590839684, y: -.0369486809, z: .0632776767}
+      rotation: {x: -.0186868235, y: .044869367, z: .0882716179, w: .994909942}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_finger2
+      position: {x: -.355339855, y: -5.55111512e-17, z: 0}
+      rotation: {x: -5.04078166e-08, y: 1.55996474e-07, z: .0357980207, w: .999359131}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint17
+      position: {x: -.328672737, y: -5.55111512e-17, z: 0}
+      rotation: {x: 0, y: 0, z: -.354472309, w: .935066521}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_shoulder
+      position: {x: -.363262594, y: .0134440493, z: -.265525013}
+      rotation: {x: .533805251, y: .306144923, z: -.581784308, w: .531840444}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_arm
+      position: {x: .493945241, y: 1.91970071e-06, z: -2.9665938e-07}
+      rotation: {x: .0152268345, y: .102753222, z: -.145794585, w: .983846486}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_foreArm
+      position: {x: 1.01192796, y: 0, z: -3.42213355e-07}
+      rotation: {x: .0027291507, y: .0549363345, z: .0229659267, w: .998222053}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_hand
+      position: {x: 1.24124765, y: -8.8817842e-16, z: 1.47931289e-07}
+      rotation: {x: 1.28801521e-08, y: -.0617559142, z: 7.96946731e-10, w: .99809128}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_thumb1
+      position: {x: .289079994, y: .123449989, z: -.344749004}
+      rotation: {x: -.20200403, y: .397887379, z: .181382239, w: .876344979}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_thumb2
+      position: {x: .275051326, y: -8.5179164e-07, z: 2.64017854e-06}
+      rotation: {x: -2.33948185e-06, y: -.0259158853, z: -9.19401464e-06, w: .999664128}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint20 1
+      position: {x: .213957176, y: 3.12399425e-06, z: -9.39073004e-07}
+      rotation: {x: 4.03983691e-08, y: -.141421378, z: 1.73708674e-08, w: .989949524}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_finger1
+      position: {x: .590839982, y: .0369499996, z: -.0632780045}
+      rotation: {x: -.0186867639, y: .0448700562, z: .088272281, w: .994909763}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_finger2
+      position: {x: .355344355, y: -9.0712382e-07, z: 6.97890925e-07}
+      rotation: {x: 1.53668189e-08, y: -1.48639049e-06, z: .0358060598, w: .999358833}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint17 1
+      position: {x: .328668326, y: -3.83211454e-06, z: -4.32970324e-07}
+      rotation: {x: 5.39645093e-08, y: -6.04910753e-08, z: -.354472309, w: .935066521}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_upLeg
+      position: {x: .354900479, y: .157093406, z: -.508695662}
+      rotation: {x: .0115243206, y: .707012892, z: -.707012832, w: -.0115243206}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_leg
+      position: {x: -1.58307958, y: -3.51514279e-16, z: 1.38777878e-17}
+      rotation: {x: -.706470788, y: -.0299838763, z: -.0299838763, w: .706470788}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_foot
+      position: {x: -2.07113099, y: -5.55111512e-17, z: -4.43858287e-16}
+      rotation: {x: .855902314, y: .517137527, z: 1.8564168e-09, w: 3.07251224e-09}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_L_toe
+      position: {x: -.61262095, y: -3.88578059e-16, z: 7.1270636e-17}
+      rotation: {x: 0, y: 0, z: -.205161959, w: .978728056}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint5
+      position: {x: -.441269636, y: 2.77555756e-17, z: 3.66480782e-17}
+      rotation: {x: -.0548743308, y: -.704974353, z: -.0548743308, w: .704974353}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_upReg
+      position: {x: .354902446, y: .157093331, z: .50869602}
+      rotation: {x: -.707012892, y: .0115243206, z: -.0115243206, w: .707012892}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_leg
+      position: {x: 1.58308005, y: 5.55111512e-16, z: -2.63677968e-16}
+      rotation: {x: -.706470788, y: -.0299838763, z: -.0299838763, w: .706470788}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_foot
+      position: {x: 2.07112908, y: -2.05366234e-07, z: 5.55111512e-16}
+      rotation: {x: .855902314, y: .517137527, z: 1.9965567e-09, w: 3.30445782e-09}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint_R_toe
+      position: {x: .612621069, y: -3.03371934e-07, z: -3.88578059e-15}
+      rotation: {x: 2.47758383e-08, y: -5.19353538e-09, z: -.205161959, w: .978728056}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint5 1
+      position: {x: .441268981, y: 4.76122999e-08, z: -2.64065969e-09}
+      rotation: {x: -.0548743308, y: -.704974353, z: -.0548743308, w: .704974353}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
