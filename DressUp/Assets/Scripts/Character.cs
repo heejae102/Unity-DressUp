@@ -50,7 +50,7 @@ public class Character : MonoBehaviour
         ShowDress(myBottoms, bottomNum);
     }
 
-    void SaveCurrentDresses()
+    public void SaveCurrentDresses()
     {
         PlayerPrefs.SetInt("hair", hairNum);
         PlayerPrefs.SetInt("upper", upperNum);
